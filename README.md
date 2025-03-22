@@ -97,5 +97,5 @@ diamond-regression-classification/
 
 ## 👤 Author
 
-Edna Memedula 
+**Edna Memedula** 
 📫 [LinkedIn](https://www.linkedin.com/in/edna-memedula-24b519245) • [GitHub](https://github.com/mgedna) 
